@@ -1,0 +1,8 @@
+- git pull upstream main
+  - pulls changes from upstream repository
+- git add .
+  - stages all changed files
+- git commit -m "message"
+  - commits all of the staged changes
+- git push
+  - pushes changes to show on github as well
