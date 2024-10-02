@@ -1,0 +1,22 @@
+# Jupyter Notes
+- to open Jupyter lab, go to Windows Powershell and type "jupyter lab"
+  - either opens a tab or gives you a url to do so
+- accessing past entries
+  - In command
+    - In[1] gives the code from codeblock 1
+  - Out command
+    - Out is a dictionary
+    - Out[2] gives the result of code from codeblock 2
+- in each code block, the last expression will be "printed"
+  - more accurate to say last expression is the "output" of the codeblock
+- keyboard shortcuts
+  - command mode
+    - enter command mode with esc key
+    - a adds code cell above current cell
+    - b adds code cell below current cell
+    - dd deletes current cell
+    - x cuts
+    - c copies
+    - v pastes
+- edit mode
+  - enter edit mode with enter key
